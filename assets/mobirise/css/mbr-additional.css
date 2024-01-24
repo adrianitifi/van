@@ -28,7 +28,7 @@ body {
   font-size: 6.25rem;
 }
 .display-2 {
-  font-family: 'DenverRegular';
+  font-family: 'Marcellus SC', serif;
   font-size: 4rem;
   line-height: 1;
 }
@@ -44,7 +44,7 @@ body {
   font-size: 1.5rem;
 }
 .display-5 {
-  font-family: 'DenverRegular';
+  font-family: 'Marcellus SC', serif;
   font-size: 1.4rem;
   line-height: 1.5;
 }
@@ -52,7 +52,7 @@ body {
   font-size: 1.75rem;
 }
 .display-7 {
-  font-family: 'DenverRegular';
+  font-family: 'Marcellus SC', serif;
   font-size: 1.4rem;
   line-height: 1.3;
 }
@@ -618,7 +618,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'DenverRegular';
+  font-family: 'Marcellus SC', serif;
   font-size: 1.4rem;
   line-height: 1.3;
   font-weight: 400;
@@ -633,7 +633,7 @@ a:hover {
   border-color: #bfc9c8 !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'DenverRegular';
+  font-family: 'Marcellus SC', serif;
   font-size: 1.4rem;
   line-height: 1.3;
   font-weight: 400;
@@ -1342,6 +1342,7 @@ a {
 }
 .cid-tXHqVq7EcV .mbr-section-title {
   color: #260a30;
+  text-align: left;
 }
 .cid-tXHqVq7EcV .mbr-text,
 .cid-tXHqVq7EcV .mbr-section-btn {
@@ -1447,6 +1448,9 @@ a {
 .cid-tX3uPGfNqa .mbr-overlay {
   background-color: #ffffff;
   opacity: 0.4;
+}
+.cid-tX3uPGfNqa LABEL {
+  text-align: left;
 }
 .cid-tLyJtnatDA {
   padding-top: 6rem;
